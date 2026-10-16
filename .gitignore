@@ -1,0 +1,40 @@
+# ===== .NET / C# =====
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.deps.json
+*.runtimeconfig.json
+
+# NuGet
+*.nupkg
+*.snupkg
+project.assets.json
+project.nuget.cache
+*.nuget.g.props
+*.nuget.g.targets
+*.nuget.dgspec.json
+
+# ===== Visual Studio =====
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+DocumentLayout.json
+DocumentLayout.backup.json
+VSWorkspaceState.json
+
+# ===== Rider / VS Code =====
+.idea/
+.vscode/
+
+# ===== Прочее =====
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
