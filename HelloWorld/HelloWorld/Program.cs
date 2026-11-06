@@ -1,3 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Привет мир!");
-Console.WriteLine("Feature update greeting");
+Console.WriteLine("Обновленное приветствие");
+
